@@ -3,3 +3,12 @@ body{
     color: beige;
     text-align: center;
 }
+#contenido{
+    max-width: 50%;
+    align-content: center;
+    border: 2px;
+    background-color: #2F4f4f;
+}
+#contenido img{
+    max-width: 10rem;
+}
