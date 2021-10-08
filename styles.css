@@ -4,7 +4,6 @@
     margin: 0;
     max-width: 100%;
 }
-
 body{
     background-color: #000000;
     color: #f0a500;
@@ -37,4 +36,23 @@ body{
 }
 #contenido img{
     max-width: 10rem;
+    max-width: 100%;
+    width: 50%;
+    border: 6px solid #334756;
+    border-radius: 99em;
+}
+table{
+    border: .3rem double #082032;
+    box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
+    -webkit-box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
+    -moz-box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
+}
+td{
+    padding-left: 3rem;
+    padding-right: 3rem;
+    
+}
+tr{
+    border: 2rem solid #082032;
+    text-align: center;
 }
