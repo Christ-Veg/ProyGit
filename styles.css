@@ -23,6 +23,19 @@ body{
     padding: 2rem 0.5rem;
     border-radius: 5rem;
 }
+#cont{
+    background-color: #082032;
+    width: 100%;
+    max-width: 50rem;
+    text-align: center;
+    margin: 7% 25% 5% 25%;
+    padding: 2rem 0.5rem;
+    border-radius: 5rem;
+    background-color: #2F4f4f;
+    box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
+    -webkit-box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
+    -moz-box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
+}
 #contenido img{
     width: 50%;
     border: 6px solid #334756;
