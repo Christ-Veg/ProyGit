@@ -15,13 +15,13 @@ body{
     height: 100%;
 }
 #contenido{
-    background-color: #082032;
-    width: 50%;
-    max-width: 50rem;
-    text-align: center;
-    margin: 7% 25% 5% 25%;
-    padding: 2rem 0.5rem;
-    border-radius: 5rem;
+    max-width: 50%;
+    align-content: center;
+    border: 2px;
+    background-color: #2F4f4f;
+    box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
+    -webkit-box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
+    -moz-box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
 }
 #cont{
     background-color: #082032;
@@ -41,22 +41,8 @@ body{
     border: 6px solid #334756;
     border-radius: 99rem;
 }
-#contenido{
-    max-width: 50%;
-    align-content: center;
-    border: 2px;
-    background-color: #2F4f4f;
-    box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
-    -webkit-box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
-    -moz-box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
-}
-#contenido img{
-    max-width: 10rem;
-    max-width: 100%;
-    width: 50%;
-    border: 6px solid #334756;
-    border-radius: 99em;
-}
+
+
 table{
     border: .3rem double #082032;
     box-shadow: 9px 10px 56px 40px rgba(51,71,86,1);
